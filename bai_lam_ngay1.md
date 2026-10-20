@@ -3,7 +3,7 @@
 
 - **Họ tên:**Lê Hồng Quân
 - **Lớp:**CNTT2
-- **Link repository:**https://github.com/LeHogQuan/CNTT2_Nhap-mon-CNTT_OnTap-Ngay1/new/main
+- **Link repository:**[https://github.com/LeHogQuan/CNTT2_Nhap-mon-CNTT_OnTap-Ngay1/new/main](https://github.com/LeHogQuan/CNTT2_Nhap-mon-CNTT_OnTap-Ngay1/blob/main/bai_lam_ngay1.md)
 - **Hệ điều hành (Windows/macOS):**Windows
 
 ## Phần A. Tổ chức thư mục bằng GUI

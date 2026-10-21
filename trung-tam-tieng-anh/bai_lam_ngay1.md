@@ -2,7 +2,7 @@
 
 - **Họ tên:**Le Hong Quan
 - **Lớp:**CNTT2
-- **Link repository:**
+- **Link repository:**https://github.com/LeHogQuan/CNTT2_Nhap-mon-CNTT_OnTap-Ngay1/tree/main/trung-tam-tieng-anh
 - **Hệ điều hành (Windows/macOS):**WINDOWS
 
 ## Phần A. Tổ chức thư mục bằng GUI
